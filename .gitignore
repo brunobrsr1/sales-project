@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter runtime
+*.nbconvert.ipynb
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
