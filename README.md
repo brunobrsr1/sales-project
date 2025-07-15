@@ -10,6 +10,3 @@ This is a **Data Science mini-project** that combines **MySQL** and **Python** t
   - Best-selling products
   - Average ticket by product category
 - Use **Python** (**Pandas**, **Matplotlib**) to visualize these insights.
-
-## 📁 Project Structure
-
