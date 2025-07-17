@@ -18,3 +18,4 @@ This project addresses the following key business questions:
 🔹 **Low stock alert** — which products need reordering?  
 🔹 **Sales rep performance** — who sells more?  
 🔹 **Sales over time** — plot revenue trend by month.
+🔹 **Buying patterns** - What are the customer segmentation and buying patterns?
