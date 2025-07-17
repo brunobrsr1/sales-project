@@ -122,23 +122,6 @@ The project includes a robust data generation script that creates:
 - **2,000+ sales transactions** with multiple items
 - **25 sales representatives** across different territories
 - **50 suppliers** with contact information
-
-## 🚀 Getting Started
-
-1. Follow the setup instructions above
-2. Run all cells in `analysis.ipynb` sequentially
-3. Explore the interactive visualizations
-4. Modify queries to answer additional business questions
-5. Customize the analysis for your specific needs
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for improvements.
-
 ---
 
 **Ready to unlock powerful business insights from your sales data? Start exploring! 🚀**
