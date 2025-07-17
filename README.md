@@ -123,5 +123,3 @@ The project includes a robust data generation script that creates:
 - **25 sales representatives** across different territories
 - **50 suppliers** with contact information
 ---
-
-**Ready to unlock powerful business insights from your sales data? Start exploring! 🚀**
